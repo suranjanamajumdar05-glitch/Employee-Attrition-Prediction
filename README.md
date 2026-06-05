@@ -67,10 +67,10 @@ GridSearchCV was used to identify the optimal Random Forest parameters, includin
 i. Number of Trees (n_estimators)
 ii. Maximum Tree Depth (max_depth)
 iii. Minimum Samples Split (min_samples_split)
-### 8. Feature Importance Analysis
+## 8. Feature Importance Analysis
 Random Forest feature importance scores were used to identify the factors contributing most to employee attrition.
 
-### Visualizations Included
+## Visualizations Included
 i. Attrition Distribution : Shows the proportion of employees who left versus those who stayed.
 <img width="580" height="453" alt="image" src="https://github.com/user-attachments/assets/489bde26-6e06-4042-b69a-0f2e20d44e25" />
 ii. Department-wise Attrition : Identifies departments experiencing higher employee turnover.
