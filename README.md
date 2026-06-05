@@ -38,21 +38,21 @@ iv. Matplotlib
 v. Seaborn
 vi. Scikit-Learn
 
-### Machine Learning Workflow
-## 1. Data Loading
+## Machine Learning Workflow
+### 1. Data Loading
 The dataset was loaded using Pandas and inspected to understand its structure, data types, and feature distribution.
-## 2. Data Exploration
+### 2. Data Exploration
 Exploratory Data Analysis (EDA) was performed to understand employee behavior and attrition trends.
-## 3. Data Preprocessing
+### 3. Data Preprocessing
 i. Removed irrelevant features such as Employee ID.
 ii. Encoded categorical variables using One-Hot Encoding.
 iii. Standardized numerical features using StandardScaler.
 iv. Split data into training and testing sets.
-## 4. Model Building
+### 4. Model Building
 The following classification models were implemented:
 i. Logistic Regression : Used as a baseline classification model.
 ii. Random Forest Classifier : Used as the primary model due to its robustness and ability to capture complex relationships.
-## 5. Model Evaluation
+### 5. Model Evaluation
 The models were evaluated using:
 i. Accuracy Score
 ii. Confusion Matrix
@@ -60,14 +60,14 @@ iii. Precision
 iv. Recall
 v. F1-Score
 vi. Classification Report
-## 6. Cross Validation
+### 6. Cross Validation
 5-Fold Cross Validation was applied to obtain a more reliable estimate of model performance and reduce dependency on a single train-test split.
-## 7. Hyperparameter Tuning
+### 7. Hyperparameter Tuning
 GridSearchCV was used to identify the optimal Random Forest parameters, including:
 i. Number of Trees (n_estimators)
 ii. Maximum Tree Depth (max_depth)
 iii. Minimum Samples Split (min_samples_split)
-## 8. Feature Importance Analysis
+### 8. Feature Importance Analysis
 Random Forest feature importance scores were used to identify the factors contributing most to employee attrition.
 
 ### Visualizations Included
