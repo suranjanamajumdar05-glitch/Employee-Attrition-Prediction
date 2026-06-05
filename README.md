@@ -71,23 +71,25 @@ iii. Minimum Samples Split (min_samples_split)
 Random Forest feature importance scores were used to identify the factors contributing most to employee attrition.
 
 ## Visualizations Included
+i. Attrition Distribution
 
-i. Attrition Distribution :
-<img width="580" height="453" alt="image" src="https://github.com/user-attachments/assets/489bde26-6e06-4042-b69a-0f2e20d44e25" />
+<img width="580" height="453" alt="image" src="https://github.com/user-attachments/assets/2331ec21-7795-424d-ad00-7a75cbe2b2d1" />
 
-ii. Department-wise Attrition :
-<img width="859" height="493" alt="image" src="https://github.com/user-attachments/assets/f754eb63-7f37-4ebb-998c-4a9e71c5dc23" />
+ii. Department-wise Attrition
 
-iii. Overtime vs Attrition :
-<img width="580" height="432" alt="image" src="https://github.com/user-attachments/assets/2369c894-29d2-4fb3-b6bc-27aff811b52f" />
+<img width="859" height="493" alt="image" src="https://github.com/user-attachments/assets/cec9c0aa-56cc-49bf-ad50-9316a03beaf7" />
 
-iv. Monthly Income vs Attrition :
-<img width="713" height="448" alt="image" src="https://github.com/user-attachments/assets/1b09af72-7377-49d0-bf24-4ec796775c44" />
+iii. Overtime vs Attrition
 
-v. Correlation Heatmap :
-<img width="1326" height="1043" alt="image" src="https://github.com/user-attachments/assets/632cd7da-9cf1-4021-889f-3a7654daa483" />
-vi. Feature Importance Plot :
-Highlights the most influential factors affecting attrition.
+<img width="580" height="432" alt="image" src="https://github.com/user-attachments/assets/bd7936b1-8d89-45da-bd32-1148cd1a6913" />
+
+iv. Monthly Income vs Attrition
+
+<img width="713" height="448" alt="image" src="https://github.com/user-attachments/assets/c0f24354-ad8e-476b-a5f2-163bd35e5129" />
+
+v. Correlation Heatmap
+
+<img width="1326" height="1043" alt="image" src="https://github.com/user-attachments/assets/ea07b5a2-3114-4b03-88e6-949322913888" />
 
 ## Results
 The Random Forest model outperformed the baseline Logistic Regression model and provided better predictive performance.
